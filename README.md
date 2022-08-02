@@ -1,4 +1,4 @@
-💸BANKIST
+# 💸BANKIST
 
 Bankist is a ficitious and minimalistic online banking application that allows the user to:
   1. Login with username and password
